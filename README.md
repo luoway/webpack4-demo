@@ -23,4 +23,10 @@ npm install --global webpack
 ```
 
 
+### 说明
 
+demo1: 演示无配置使用Webpack打包
+
+demo2: 演示自写loader、plugin及使用
+
+demo3: 演示调试loader、plugin
