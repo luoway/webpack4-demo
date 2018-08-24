@@ -1,0 +1,1 @@
+document.write('请查看构建产物文件')
